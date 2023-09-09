@@ -1,0 +1,9 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json.git
+[submodule "dotenv-cpp"]
+	path = dotenv-cpp
+	url = https://github.com/laserpants/dotenv-cpp.git
+[submodule "cpp-httplib"]
+	path = cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
